@@ -1,1 +1,1 @@
-A seven day weather forecasting android mobile applicatio.
+A seven day weather forecasting android mobile application.
